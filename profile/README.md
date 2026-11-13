@@ -1,14 +1,28 @@
 <div align="center">
   <img src="assets/dhack-logo.png" alt="D-Hack1 Logo" width="140" />
+  <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C62828,100:1a1a1a&height=120&section=header&text=D-HACK1&fontSize=56&fontColor=ffffff&fontAlignY=62&desc=Award-Winning%20Hackathon%20Portfolio%20%26%20Product%20Incubator&descAlignY=85&descSize=16" width="100%" alt="D-Hack1" />
+  # D-HACK1
+
+  **Award-Winning Hackathon Portfolio & Product Incubator**
+
+  [![Org](https://img.shields.io/badge/GitHub-Org-181717?style=for-the-badge&logo=github)](https://github.com/D-Hack1)
+  [![Hackathons Won](https://img.shields.io/badge/Hackathons%20Won-2-C62828?style=for-the-badge)](#-hall-of-fame)
+  [![Flagship Projects](https://img.shields.io/badge/Flagship%20Projects-3-1a3a6b?style=for-the-badge)](#-flagship-projects)
+  [![Team Members](https://img.shields.io/badge/Team%20Members-10-2e7d32?style=for-the-badge)](#-team)
+
+  <br/>
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
   [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](#)
   [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-
-  [![Static Badge](https://img.shields.io/badge/GitHub-Org-181717?style=for-the-badge&logo=github)](https://github.com/D-Hack1)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+  [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+  [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 </div>
 
 ---
@@ -110,25 +124,49 @@ A highly complex, passive network monitoring platform that combines network tele
 
 ### ▸ Complete Project Portfolio
 
-Beyond our flagship applications, our organization houses several robust MVPs categorized by domain:
+Beyond our flagship applications, our organization houses several robust MVPs, grouped by domain:
 
-**Security, Identity & Public Safety**
-*   [**InvisiKey**](#) - A secure, scalable Flutter banking solution using rhythm-based behavioral authentication and ML for OTP-free transactions.
-*   [**Sentry**](#) - A Python-based incident detection, alerting, and event processing engine.
-*   [**SEE**](#) - Full-stack web platform for governance and public monitoring (SIH 2025).
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**AI, ML & Data Science**
-*   [**Gene-Expression-Explorer**](#) - Python web app (Streamlit/Flask) for biomedical data exploration, running automated ML analysis on public datasets.
-*   [**Adobe Series (Adobe, adobe_a1, adobe_1b)**](#) - Iterative Python data processing pipelines and model experimentation suites for analytics challenges.
+[![Security, Identity & Public Safety](https://img.shields.io/badge/-Security,%20Identity%20%26%20Public%20Safety-C62828?style=for-the-badge)](#)
 
-**Energy & Sustainability**
-*   [**SolarWatts**](#) - Flutter mobile app for renewable energy monitoring and consumption optimization.
-*   [**sharewatts**](#) - User-facing Dart/Flutter application for peer-to-peer solar sharing and smart-grid community engagement.
+*   [**InvisiKey**](#) — Flutter banking solution using rhythm-based behavioral authentication and ML for OTP-free transactions.
+*   [**Sentry**](#) — Python-based incident detection, alerting, and event processing engine.
+*   [**SEE**](#) — Full-stack web platform for governance and public monitoring (SIH 2025).
 
-**Web Platforms & Utilities**
-*   [**SIGNOPSIS & SIGNOPSIS-FINAL**](#) - Front-end heavy coding/education portals ("CODE KALARI") backed by Python.
-*   [**Arivu**](#) - TypeScript-based modern knowledge and education SaaS dashboard.
-*   [**Canara_Backend** & **bajaj**](#) - Python backend foundations (Django/FastAPI) for financial platforms and domain-specific automation.
+</td>
+<td width="50%" valign="top">
+
+[![AI, ML & Data Science](https://img.shields.io/badge/-AI,%20ML%20%26%20Data%20Science-6A1B9A?style=for-the-badge)](#)
+
+*   [**Gene-Expression-Explorer**](#) — Streamlit/Flask web app for biomedical data exploration with automated ML analysis on public datasets.
+*   [**Adobe Series**](#) *(Adobe, adobe_a1, adobe_1b)* — Iterative Python data pipelines and model experimentation suites for analytics challenges.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Energy & Sustainability](https://img.shields.io/badge/-Energy%20%26%20Sustainability-2E7D32?style=for-the-badge)](#)
+
+*   [**SolarWatts**](#) — Flutter mobile app for renewable energy monitoring and consumption optimization.
+*   [**sharewatts**](#) — Dart/Flutter application for peer-to-peer solar sharing and smart-grid community engagement.
+
+</td>
+<td width="50%" valign="top">
+
+[![Web Platforms & Utilities](https://img.shields.io/badge/-Web%20Platforms%20%26%20Utilities-1565C0?style=for-the-badge)](#)
+
+*   [**SIGNOPSIS & SIGNOPSIS-FINAL**](#) — Front-end heavy coding/education portals ("CODE KALARI") backed by Python.
+*   [**Arivu**](#) — TypeScript-based knowledge and education SaaS dashboard.
+*   [**Canara_Backend** & **bajaj**](#) — Django/FastAPI backend foundations for financial platforms and domain-specific automation.
+
+</td>
+</tr>
+</table>
 
 ---
 <div align="center">
