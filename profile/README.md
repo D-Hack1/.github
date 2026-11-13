@@ -28,7 +28,7 @@
 ---
 
 ### ▸ About Us
-D-Hack1 is a diverse portfolio of hackathon projects, Minimum Viable Products (MVPs), and technical prototypes. Our work spans multiple domains including banking security, AI/data products, renewable energy, public safety, and mobile utilities. We focus on building highly technical, problem-solving architectures — from on-device edge AI to massive gigapixel data pipelines.
+We're a small team of builders who meet at hackathons, pick the hardest problem on the table, and ship something that actually works in 24–48 hours. D-Hack1 is where those builds live on afterward — a portfolio of hackathon projects, MVPs, and technical prototypes spanning banking security, AI/data products, renewable energy, public safety, and mobile utilities. Whatever the domain, the goal is the same: find a real problem and build a solution technical enough to survive contact with reality — from on-device edge AI to massive gigapixel data pipelines.
 
 ---
 
@@ -82,11 +82,22 @@ D-Hack1 is a diverse portfolio of hackathon projects, Minimum Viable Products (M
 
 ### ▸ Flagship Projects
 
-### 1. [N-Large](https://github.com/D-Hack1/Nlarge) (NASA Space Apps '25 Global Nominee)
-**"Google Maps for Space" — Visualizing massive, gigapixel-scale astronomical data.**
+<br/>
+
+**01 · [N-Large](https://github.com/D-Hack1/Nlarge)**
+[![NASA Space Apps '25 — Global Nominee](https://img.shields.io/badge/NASA%20Space%20Apps%20'25-Global%20Nominee-1a3a6b?style=flat-square)](#)
+
+*"Google Maps for Space" — visualizing massive, gigapixel-scale astronomical data.*
 N-Large solves the problem of rendering 500MB+ raw `.fits` or `.tif` space images in a standard web browser without crashing. It pre-processes images into a pyramid of optimized tiles and dynamically serves them based on user zoom level and coordinates.
-*   **Tech Stack:** React, FastAPI, Python Data Pipeline (Pillow), Google Cloud Storage, PostgreSQL.
-*   **Team:** [ebinthomas06](https://github.com/ebinthomas06) · [AadiBolics](https://github.com/AadiBolics) · [nivednarayan](https://github.com/nivednarayan) · [sanjay-was-taken](https://github.com/sanjay-was-taken) · [jaith-krishh](https://github.com/jaith-krishh) · [JXTDEVELOPER](https://github.com/JXTDEVELOPER)
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python%20(Pillow)-3776AB?style=flat-square&logo=python&logoColor=white)
+![GCS](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Team:** [ebinthomas06](https://github.com/ebinthomas06) · [AadiBolics](https://github.com/AadiBolics) · [nivednarayan](https://github.com/nivednarayan) · [sanjay-was-taken](https://github.com/sanjay-was-taken) · [jaith-krishh](https://github.com/jaith-krishh) · [JXTDEVELOPER](https://github.com/JXTDEVELOPER)
+
 <details>
 <summary><b>View N-Large Architecture Details</b></summary>
 
@@ -95,11 +106,25 @@ N-Large solves the problem of rendering 500MB+ raw `.fits` or `.tif` space image
 *   **Frontend:** React + OpenSeadragon seamlessly renders the high-res zoomable images by requesting only visible tiles as the user pans and zooms.
 </details>
 
-### 2. [KooliKanakku](https://github.com/D-Hack1/KooliKanakku) (Realm Hack '26 Best Build)
-**Fair pay, worked out together. — On-device AI for home cleaning estimates.**
+<br/>
+
+---
+
+<br/>
+
+**02 · [KooliKanakku](https://github.com/D-Hack1/KooliKanakku)**
+[![Realm Hack '26 — Best Build](https://img.shields.io/badge/Realm%20Hack%20'26-Best%20Build-C62828?style=flat-square)](#)
+
+*Fair pay, worked out together — on-device AI for home cleaning estimates.*
 An offline-first Android application that helps home-cleaning workers and homeowners agree on fair pricing. Point the phone at a room; the app measures it via sensors, spots clutter/grime using on-device YOLO models, and calculates time and pay.
-*   **Team (JangoMaar):** [ebinthomas06](https://github.com/ebinthomas06) (Ebin Thomas) · [AadiBolics](https://github.com/AadiBolics) (Aadinadhan A R) · [nivednarayan](https://github.com/nivednarayan) (Nived Narayan) · [AbhiKamp](https://github.com/AbhiKamp) (Abhinav S)
-*   **Tech Stack:** Kotlin, Jetpack Compose, CameraX, LiteRT (TFLite) YOLO detectors.
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![CameraX](https://img.shields.io/badge/-CameraX-34A853?style=flat-square&logo=android&logoColor=white)
+![TFLite](https://img.shields.io/badge/-LiteRT%20(TFLite)%20YOLO-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Team (JangoMaar):** [ebinthomas06](https://github.com/ebinthomas06) *(Ebin Thomas)* · [AadiBolics](https://github.com/AadiBolics) *(Aadinadhan A R)* · [nivednarayan](https://github.com/nivednarayan) *(Nived Narayan)* · [AbhiKamp](https://github.com/AbhiKamp) *(Abhinav S)*
+
 <details>
 <summary><b>View KooliKanakku Architecture Details</b></summary>
 
@@ -108,10 +133,26 @@ An offline-first Android application that helps home-cleaning workers and homeow
 *   **Features:** Tamper-evident evidence hashing, English/Malayalam UI, and an optional Supabase-powered "Find a worker" layer.
 </details>
 
-### 3. Aegis (SIH 2026)
-**Passive AI/ML Network Threat Detection.**
+<br/>
+
+---
+
+<br/>
+
+**03 · Aegis**
+[![SIH 2026](https://img.shields.io/badge/SIH%202026-In%20Development-5e5e5e?style=flat-square)](#)
+
+*Passive AI/ML network threat detection.*
 A highly complex, passive network monitoring platform that combines network telemetry, machine learning, and real-time streaming to detect threats without introducing an active control path.
-*   **Tech Stack:** Python, Zeek, Kafka, XGBoost, Isolation Forest, FastAPI, Elasticsearch, React.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-00ADD8?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0E7C61?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 <details>
 <summary><b>View Aegis Architecture Details</b></summary>
 
