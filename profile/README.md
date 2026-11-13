@@ -4,11 +4,11 @@
 
   # D-HACK1
 
-  **Award-Winning Hackathon Portfolio & Product Incubator**
+  **Built at hackathons. Shipped as real products.**
 
   [![Org](https://img.shields.io/badge/GitHub-Org-181717?style=for-the-badge&logo=github)](https://github.com/D-Hack1)
-  [![Hackathons Won](https://img.shields.io/badge/Hackathons%20Won-2-C62828?style=for-the-badge)](#-hall-of-fame)
-  [![Flagship Projects](https://img.shields.io/badge/Flagship%20Projects-3-1a3a6b?style=for-the-badge)](#-flagship-projects)
+  [![Hackathons Won](https://img.shields.io/badge/Hackathons%20Won-1-C62828?style=for-the-badge)](#-hall-of-fame)
+  [![Global Nominee](https://img.shields.io/badge/Global%20Nominee-1-1a3a6b?style=for-the-badge)](#-hall-of-fame)
   [![Team Members](https://img.shields.io/badge/Team%20Members-10-2e7d32?style=for-the-badge)](#-team)
 
   <br/>
@@ -84,7 +84,7 @@ We're a small team of builders who meet at hackathons, pick the hardest problem 
 
 <br/>
 
-**01 · [N-Large](https://github.com/D-Hack1/Nlarge)**
+### 01 · [N-Large](https://github.com/D-Hack1/Nlarge)
 [![NASA Space Apps '25 — Global Nominee](https://img.shields.io/badge/NASA%20Space%20Apps%20'25-Global%20Nominee-1a3a6b?style=flat-square)](#)
 
 *"Google Maps for Space" — visualizing massive, gigapixel-scale astronomical data.*
@@ -112,7 +112,7 @@ N-Large solves the problem of rendering 500MB+ raw `.fits` or `.tif` space image
 
 <br/>
 
-**02 · [KooliKanakku](https://github.com/D-Hack1/KooliKanakku)**
+### 02 · [KooliKanakku](https://github.com/D-Hack1/KooliKanakku)
 [![Realm Hack '26 — Best Build](https://img.shields.io/badge/Realm%20Hack%20'26-Best%20Build-C62828?style=flat-square)](#)
 
 *Fair pay, worked out together — on-device AI for home cleaning estimates.*
@@ -139,7 +139,7 @@ An offline-first Android application that helps home-cleaning workers and homeow
 
 <br/>
 
-**03 · Aegis**
+### 03 · [Aegis](https://github.com/D-Hack1/Aegis)
 [![SIH 2026](https://img.shields.io/badge/SIH%202026-In%20Development-5e5e5e?style=flat-square)](#)
 
 *Passive AI/ML network threat detection.*
